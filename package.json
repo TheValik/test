@@ -1,0 +1,19 @@
+{
+  "name": "labsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel source/index.html",
+    "build": "parcel build source/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.43.5"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
